@@ -1,0 +1,5 @@
+version: '3'
+services:
+  diet-analysis:
+    image: sargam76/diet-analysis
+    container_name: diet-analysis-container
